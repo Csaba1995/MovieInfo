@@ -9,7 +9,7 @@ body {
 }
 #movies img,
 #movie img {
-  width: fit-content;
+  width: 250px;
   height: 400px;
   margin: 15px;
 }
@@ -42,7 +42,7 @@ body {
 h5 {
   width: 250px;
   text-align: center;
-  margin-left: 15px;
+  margin-left: 3rem;
 }
 p {
   font-size: large;
